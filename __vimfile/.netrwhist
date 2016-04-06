@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/wwwroot'
+let g:netrw_dirhist_2='/home/ginnerpeace/.navicat64'
+let g:netrw_dirhist_3='/home/ginnerpeace/projects/laravel5_basic_structure/config'
+let g:netrw_dirhist_4='/home/ginnerpeace/.composer'
